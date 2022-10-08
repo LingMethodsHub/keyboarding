@@ -5,11 +5,9 @@ author:
     url: "https://jofrhwld.github.io/"
     affiliations:
       - University of Kentucky
-date: 2020-9-1
+date: 2022-9-1
+doi: 10.5281/zenodo.7044879
 license: "CC-BY-SA 4.0"
-format: 
-  html:
-    doi: 10.5281/zenodo.7044879
 editor: visual
 knitr: 
   opts_chunk: 
