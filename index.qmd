@@ -152,7 +152,7 @@ ggkeyboard(keyboard =tkl,
 
 ## Mac
 ```{r}
-#| fig.cap: "tilde on the mac keyboard"
+#| fig.cap: "square brackets on the mac keyboard"
 #| cap-location: margin
 #| out-width: 100%
 #| fig-width: 10
@@ -338,7 +338,7 @@ ggkeyboard(keyboard =tkl,
 
 ## Mac
 ```{r}
-#| fig.cap: "bar brackets on the mac keyboard"
+#| fig.cap: "bar location on the mac keyboard"
 #| cap-location: margin
 #| out-width: 100%
 #| fig-width: 10
